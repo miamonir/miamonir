@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm <b>Moniruzzaman Mia</b> from <b>Bangladesh</b><br><br>- 🔭 I’m a student doing Profesional Masters program from Jahangirnagar Unibersity<br>- 📚 I'm currently learning Frontend<br>- ⚡ In my free time I learn more</p>
+<p align="left">I'm <b>Moniruzzaman Mia</b> from <b>Bangladesh</b><br><br>- 🔭 I’m a student doing Profesional Masters program from Jahangirnagar University<br>- 📚 I'm currently learning Frontend<br>- ⚡ In my free time I learn more</p>
 
 ###
 
