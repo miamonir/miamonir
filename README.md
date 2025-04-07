@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm <b>Moniruzzaman Mia</b> from <b>Bangladesh</b><br><br>- 🔭 I’m a student doing Profesional Masters program from Jahangirnagar Unibersity<br>- 📚 I'm currently learning Frontend<br>- ⚡ In my free time I learn more</p>
+<p align="left">I'm <b>Moniruzzaman Mia</b> from <b>Bangladesh</b><br><br>- 🔭 I’m a student doing Profesional Masters program from Jahangirnagar University<br>- 📚 I'm currently learning Frontend<br>- ⚡ In my free time I learn more</p>
 
 ###
 
@@ -67,6 +67,7 @@
 </div>
 
 ###
+<<<<<<< HEAD
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miamonir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -128,3 +129,5 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+=======
+>>>>>>> 37c79bf85ba0d8f3b1a0bc31b16eb65386cc5542
